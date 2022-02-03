@@ -10,10 +10,10 @@
 
 <br>
 
-## Connect with me ^_^ 
+## Connect with me :)
 
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/humza_haseeb)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/humza-haseeb-1104aa1a0/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/humza-haseeb-1104aa1a0/)
 
 <br>
 
