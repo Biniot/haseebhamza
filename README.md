@@ -42,5 +42,5 @@
 
 <br>
 
-## My GitHub Stats 😎
+## My GitHub Stats
 ![Humza's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseebhamza&theme=cobalt&show_icons=true)
