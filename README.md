@@ -12,8 +12,12 @@
 
 ## Connect with me :)
 
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/humza_haseeb)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/humza-haseeb-1104aa1a0/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />](hamzahaseeb5@gmail.com)
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ham7a.haseeb/)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/humza_haseeb)
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hamzahaseeb_/)
+
 
 <br>
 
